@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	
+	<meta http-equiv="imagetoolbar" content="false">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	
+	<meta name="author" content="Kevin M. Jackson" />
+	<meta name="description" content="{{ page.description }}" />
+	{% if page.tags %}<meta name="keywords" content="{% for tag in page.tags%}{% if forloop.last %}{{ tag }}{% else %}{{ tag }}, {% endif %}{% endfor %}" />{% endif %}
+
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:url" content="http://chuise.com{{ page.url }}" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:description" content="{{page.description}}" />
+	<meta name="twitter:site" content="@chuise" />
+	<meta name="twitter:image" content="http://chuise.com/images/beard_banner.png" />
+
+	<meta property="og:site_name" content="Kevin M. Jackson - @chuise" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:article:author" content="Kevin M. Jackson" />
+	{% for tag in page.tags%}
+	<meta property="og:article:tag" content="{{ tag }}" />
+	{% endfor %}
+	<meta property="og:url" content="http://chuise.com{{ page.url }}" />
+</head>
+<body>
+	<header>
+	  <h1><a href="/" title="Home">Kevin M. Jackson</a></h1>
+	</header>
