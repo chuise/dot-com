@@ -1,2 +1,6 @@
+# Where things are
 sass:
   sass_dir: _sass
+
+# Outputting
+permalink: pretty

@@ -18,7 +18,7 @@ My friend Kyle recently published an article about [launching before you're read
 
 For now, I'm going way back. No stylesheets. Just the bare essentials -- two turntables and a microphone. You want responsive? You can't get much better.
 
-Over time I want this site to evolve into something I'm proud of, but it's going to take just that -- time. The old page is being archived here for posterity. Hopefully this marks the end of an era for the "splash page" version of this site. 
+Over time I want this site to evolve into something I'm proud of, but it's going to take just that -- time. The old page is being [archived here](http://v9.chuise.com "2013 &mdash; March, 2015") for posterity. Hopefully this marks the end of an era for the "splash page" version of this site. 
 
 As designers I feel like our personal sites are often the cobbler's children. There's work to be done -- whether it be our day jobs or side projects. Our energies are devoted to things we build for other people. We rarely get a chance to spend time on ourselves, unless we're out looking for a job and trying to boost our portfolios.
 
