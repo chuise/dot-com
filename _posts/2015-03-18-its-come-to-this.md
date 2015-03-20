@@ -10,11 +10,11 @@ For the longest time this website has been a picture of my face, as handsome as 
 
 But these days, who has the time?
 
-I'm a father of two, a husband of one, design team of one at Artisan, and a passion project or two. I want to dedicate time to building out a "personal brand" because everyone says it's a good thing, but it's probably better to invest that time, plus more, into being a better father and husband. I spend a lot of my time with my face buried in a device when I should be more concerned about what's happening around them.
+I'm a father of two, husband to one, and design team of one at Artisan. Throw in a passion project or two for good measure. I want to dedicate time to building out a "personal brand" because everyone says it's a good thing, but it's probably better to invest that time, plus more, into being a better father and husband. I spend a lot of my time with my face buried _in_ a device when I should be more concerned about what's happening _around_ them.
 
-That being said, I want this site to be something. I like to build. I like to experiment. I have a point of view to express. I want this to be the place where I do that.
+That being said, I do want this site to be something. I like to build. I like to experiment. I have opinions that I like to express. I want this to be the place where I do that.
 
-My friend Kyle recently published an article about <a href="http://kylefiedler.com/2015/02/22/launching-incomplete.html" title="Read: Launch When You Aren't Ready by Kyle Fielder">launching before you're ready</a>. I'm not ready. I don't have a plan. There are no fonts picked out, no colors decided on, no epic design ready to be put in I don't have time to create some epic design. I'm starting fresh. I'm starting from the ground up and I'm doing it in public.
+My friend Kyle recently published an article about [launching before you're ready](http://kylefiedler.com/2015/02/22/launching-incomplete.html "Read: Launch When You Aren't Ready by Kyle Fielder"). I'm not ready. I don't have a plan. There are no fonts picked out, no colors decided on, no epic design waiting in the wings. I'm starting fresh, from the ground up and I'm doing it in public.
 
 For now, I'm going way back. No stylesheets. Just the bare essentials -- two turntables and a microphone. You want responsive? You can't get much better.
 
