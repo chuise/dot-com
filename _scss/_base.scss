@@ -55,10 +55,6 @@ main {
   max-width: em(580);
   padding-left: modular-scale(2);
   padding-right: modular-scale(2);
-
-  article {
-    @include outer-container;
-  }
 }
 
 footer {

@@ -24,3 +24,6 @@ I don't expect the site to stay like this for long. I'm sure a simple coat of pa
 As designers I feel like our personal sites are often the cobbler's children. There's work to be done -- whether it be our day jobs or side projects. Our energies are devoted to things we build for other people. We rarely get a chance to spend time on ourselves, unless we're out looking for a job and trying to boost our portfolios.
 
 This site has been the bastard child of a weary cobbler for far too long, it's time it got a new pair of shoes -- even if they are a shitty pair of Zips.
+
+### Update
+I've started to clean things up since this post. The original version of the site [has been archived](http://v10.chuise.com "Version 10 &mdash; Annihilus") as will all future versions.
