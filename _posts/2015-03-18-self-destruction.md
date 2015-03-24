@@ -3,7 +3,7 @@ layout: post
 title: "Self-Destruct Sequence Initiated"
 author: "Kevin M. Jackson"
 description: "Do not attempt to adjust your browser. It's all intentional."
-summary: "Let's try this again, shall we?"
+tags: [site design, user experience, design]
 ---
 For the longest time this website has been a picture of my face, as handsome as it is, and a few links to some places around the web where I post things. Not very interesting. At least not to me. I've always wanted it to be so much more. Way back in the day I tried an experiment where I would challenge myself to take a photo or draw something and pair it with some bit of text once a day. It forced me to stretch a bit. Sun salutations for creativity, perhaps.
 

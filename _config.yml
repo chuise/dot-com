@@ -1,6 +1,12 @@
-# Where things are
+# Site settings
+site_title: "chuise.com by Kevin M. Jackson"
+twitter_username: chuise
+email: hello@chuise.com
+
+# Sass settings
 sass:
-  sass_dir: _sass
+  sass_dir: _scss
+  style: :compressed
 
 # Outputting
 permalink: pretty
