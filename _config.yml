@@ -10,3 +10,6 @@ sass:
 
 # Outputting
 permalink: pretty
+
+# Versioning
+version: 1427172989
