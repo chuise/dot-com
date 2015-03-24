@@ -3,7 +3,7 @@ layout: post
 title: "Self-Destruct Sequence Initiated"
 author: "Kevin M. Jackson"
 description: "Do not attempt to adjust your browser. It's all intentional."
-summary: "Let's try this again, shall we?"
+tags: [site design, user experience, design]
 ---
 For the longest time this website has been a picture of my face, as handsome as it is, and a few links to some places around the web where I post things. Not very interesting. At least not to me. I've always wanted it to be so much more. Way back in the day I tried an experiment where I would challenge myself to take a photo or draw something and pair it with some bit of text once a day. It forced me to stretch a bit. Sun salutations for creativity, perhaps.
 
@@ -24,3 +24,6 @@ I don't expect the site to stay like this for long. I'm sure a simple coat of pa
 As designers I feel like our personal sites are often the cobbler's children. There's work to be done -- whether it be our day jobs or side projects. Our energies are devoted to things we build for other people. We rarely get a chance to spend time on ourselves, unless we're out looking for a job and trying to boost our portfolios.
 
 This site has been the bastard child of a weary cobbler for far too long, it's time it got a new pair of shoes -- even if they are a shitty pair of Zips.
+
+### Update
+I've started to clean things up since this post. The original version of the site [has been archived](http://v10.chuise.com "Version 10 &mdash; Annihilus") as will all future versions.

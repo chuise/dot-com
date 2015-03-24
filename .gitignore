@@ -1,1 +1,4 @@
+# Ignore Sass CSS Build Cache Files
+.sass-cache/
+
 _site/README.md
