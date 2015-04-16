@@ -14,7 +14,11 @@ The next day I was chatting with [Chris Baglieri](http://twitter.com/chrisbaglie
 
 Fast forward one week, give or take a day or two, and we proudly present [Streamalong.tv](http://streamalong.tv) -- the best way to discover content on Periscope.
 
+![Alt text](/images/streamalong-logo.png "The Streamalong logo.")
+
 There are some amazing broadcasters out there on Periscope and we've hopefully taken a step toward making it easier to find those people. I've had a lot of fun discovering broadcasts while building Streamalong. I love checking out everything from news stations giving the behind the scenes studio tours, to random AMAs, to some dude saying "Tool Time" over and over again, to TV's [Maria Menounos](https://twitter.com/mariamenounos) sharing some of her favorite music with people. My new favorite thing to do is tune in to Jay and Dan from [@foxsportslive](http://twitter.com/foxsportslive) to be a part of their "two-screen experience". I had never watched the show before I discovered their Periscope broadcasts, now I'm hooked.
+
+![Alt text](/images/streamalong-icons.png "The Streamalong category icons.")
 
 I think what we have is relatively small compared to what it could be. I'm excited to see your reactions and to see if other people find what we've built useful. If you want, more talk to [@streamalongtv on Twitter](http://twitter.com/streamalongtv). We'd love to hear your thoughts.
 
