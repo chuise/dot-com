@@ -35,6 +35,10 @@ p {
 a {
   color: #0072ff;
   text-decoration: none;
+
+  &.link-pink {
+    color: #ff0074;
+  }
 }
 
 #topbar {

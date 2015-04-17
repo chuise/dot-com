@@ -4,6 +4,7 @@ title: "Streamalong"
 author: "Kevin M. Jackson"
 description: "Introducing Streamalong.tv. The best way to discover content on Periscope."
 tags: [site design, design]
+medium_url: "https://medium.com/@chuise/streamalong-ffa07af64a57"
 ---
 
 I love Periscope. Let's get that out of the way. Periscope has only existed a few short weeks, but I feel like it's already become part of my daily life. I broadcast from time-to-time, but I watch a lot. We'll get to that later.
