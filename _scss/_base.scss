@@ -48,6 +48,10 @@ a {
     h1 {
       font-size: modular-scale(1);
     }
+
+    .secondary-link {
+      color: #FF715B;
+    }
   }
 }
 
@@ -80,7 +84,8 @@ main {
     color: #000;
     font-size: modular-scale(4);
     font-weight: 800;
-    margin-bottom: 0;
+    line-height: 1em;
+    margin-bottom: .25em;
   }
 
   .subheader {
