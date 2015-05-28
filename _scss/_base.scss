@@ -77,6 +77,10 @@ main {
   &.selected-logos {
     border-bottom: solid 1px #dadada;
   }
+
+  &.artisan-mobile {
+    background-color: #f04123;
+  }
 }
 
 .work {
@@ -92,6 +96,10 @@ main {
     font-size: modular-scale(1);
     font-weight: 600;
     margin-top: 0;
+  }
+
+  p {
+    margin-bottom: 2rem;
   }
 }
 

@@ -7,8 +7,10 @@ slug: artisan-mobile
 
 ## The Artisan Website
 
-![]({{ site.url }}/images/projects/artisan-mobile/feature-illustrations.jpg)
+![]({{ site.url }}/images/projects/artisan-mobile/hero-responsive.jpg)
 
 ![]({{ site.url }}/images/projects/artisan-mobile/artisan-features-page.jpg)
 
 ![]({{ site.url }}/images/projects/artisan-mobile/feature-detail.jpg)
+
+![]({{ site.url }}/images/projects/artisan-mobile/feature-illustrations.jpg)
