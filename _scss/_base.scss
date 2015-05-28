@@ -43,9 +43,6 @@ a {
 
 #topbar {
   margin: 0 auto;
-  max-width: em(580);
-  padding-left: modular-scale(2);
-  padding-right: modular-scale(2);
 
   header {
     h1 {
@@ -55,20 +52,27 @@ a {
 }
 
 main {
-  margin: 0 auto;
-  max-width: em(580);
-  padding-left: modular-scale(2);
-  padding-right: modular-scale(2);
-
   img {
     max-width: 100%;
   }
 }
 
+.wrap {
+  @include outer-container;
+  padding: 0 modular-scale(2);
+}
+
+.work {
+  h1 {
+    color: #000;
+    font-size: modular-scale(4);
+    font-weight: 800;
+  }
+
+  p {}
+}
+
 footer {
   border-top: solid 1px #dadada;
   margin: modular-scale(4) auto;
-  max-width: em(580);
-  padding-left: modular-scale(2);
-  padding-right: modular-scale(2);
 }

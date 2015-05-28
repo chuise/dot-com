@@ -1,0 +1,19 @@
+{% include header.liquid %}
+<div id="topbar">
+  <div class="wrap">
+  	<header>
+  	  <h1><a href="/" title="Home">Hi, I'm Kevin.</a> Here's some of my work.</h1>
+  	</header>
+  </div>
+</div>
+<main>
+  <div class="wrap">
+    {% assign work = site.posts | where: "layout", "project" %}
+    {% for post in work %}
+  		<article>
+  			<h1><a href="{{ post.url }}" title="Read the full post.">{{ post.title }}</a></h1>
+  		</article>
+  	{% endfor %}
+  </div>
+</main>
+{% include footer.liquid %}

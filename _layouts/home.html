@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% for post in site.posts %}
+{% assign blog_posts = site.posts | where: "layout", "post" %}
+{% for post in blog_posts %}
 	<article>
 		<h1><a href="{{ post.url }}" title="Read the full post.">{{ post.title }}</a></h1>
     	<p>{{ post.date | date: "%B %d, %Y" }}</p>
