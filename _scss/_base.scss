@@ -62,14 +62,32 @@ main {
   padding: 0 modular-scale(2);
 }
 
+.hero {
+  margin-bottom: modular-scale(4);
+
+  img {
+    display: block;
+    margin: 0;
+  }
+
+  &.selected-logos {
+    border-bottom: solid 1px #dadada;
+  }
+}
+
 .work {
   h1 {
     color: #000;
     font-size: modular-scale(4);
     font-weight: 800;
+    margin-bottom: 0;
   }
 
-  p {}
+  .subheader {
+    font-size: modular-scale(1);
+    font-weight: 600;
+    margin-top: 0;
+  }
 }
 
 footer {

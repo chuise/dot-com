@@ -2,6 +2,7 @@
 layout: project
 title: "A Few Logos"
 description: "Selected logos and brand assets."
+slug: selected-logos
 ---
 
 ![]({{ site.url }}/images/projects/selected-logos/famjam.jpg)
