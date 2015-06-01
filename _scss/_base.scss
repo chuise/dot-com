@@ -95,10 +95,14 @@ main {
 .work {
   h1 {
     color: #000;
-    font-size: modular-scale(4);
+    font-size: modular-scale(3);
     font-weight: 900;
     line-height: 1em;
     margin-bottom: .25em;
+
+    @include media($medium-screen-up) {
+      font-size: modular-scale(4);
+    }
   }
 
   .subheader {
@@ -114,24 +118,19 @@ main {
 
 .selected-work {
   article {
-    @include span-columns(6);
-    @include omega();
-    position: relative;
+    @include media($medium-screen-up) {
+      @include span-columns(6);
+      @include omega(2n);
+      margin-bottom: $gutter/2;
+    }
 
-    h1 {
-      background-color: #000;
-      color: #fff;
-      font-size: modular-scale(0);
-      margin: 0;
-      padding: em(10);
-      position: absolute;
-      bottom: 0;
-      right: 0;
-      width: 100%;
+    a {
+      display: block;
     }
 
     img {
       display: block;
+      margin: 0;
       max-height: 100%;
     }
   }

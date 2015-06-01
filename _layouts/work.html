@@ -10,12 +10,12 @@
   <div class="wrap selected-work">
     {% assign work = site.posts | where: "layout", "project" %}
     {% for post in work %}
-  		<article>
-  			<a href="{{ post.url }}" title="Read the full post.">
+    	<article>
+    		<a href="{{ post.url }}" title="Read the full post.">
           <img src="{{ site.url }}/images/projects/{{ post.slug }}/thumbnail.jpg" />
         </a>
-  		</article>
-  	{% endfor %}
+    	</article>
+    {% endfor %}
   </div>
 </main>
 {% include footer.liquid %}
