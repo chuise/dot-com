@@ -15,4 +15,6 @@ slug: artisan-platform-ui
 
 ![]({{ site.url }}/images/projects/artisan-platform-ui/artisan-canvas-mbp.png)
 
+![]({{ site.url }}/images/projects/artisan-platform-ui/artisan-angry-robot-campaigns.jpg)
+
 ![]({{ site.url }}/images/projects/artisan-platform-ui/artisan-in-app.png)
