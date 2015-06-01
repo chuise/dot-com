@@ -10,8 +10,10 @@ slug: lovejoy
 
 ![]({{ site.url }}/images/projects/lovejoy/lovejoy-logos.jpg)
 
-![]({{ site.url }}/images/projects/lovejoy/lovejoy-postcard.jpg)
-
 ![]({{ site.url }}/images/projects/lovejoy/lovejoy-web-responsive.jpg)
+
+![]({{ site.url }}/images/projects/lovejoy/lovejoy-package.jpg)
+
+![]({{ site.url }}/images/projects/lovejoy/lovejoy-postcard.jpg)
 
 

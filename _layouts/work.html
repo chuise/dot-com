@@ -7,11 +7,13 @@
   </div>
 </div>
 <main>
-  <div class="wrap">
+  <div class="wrap selected-work">
     {% assign work = site.posts | where: "layout", "project" %}
     {% for post in work %}
   		<article>
-  			<h1><a href="{{ post.url }}" title="Read the full post.">{{ post.title }}</a></h1>
+  			<a href="{{ post.url }}" title="Read the full post.">
+          <img src="{{ site.url }}/images/projects/{{ post.slug }}/thumbnail.jpg" />
+        </a>
   		</article>
   	{% endfor %}
   </div>
