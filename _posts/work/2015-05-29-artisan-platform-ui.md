@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Artisanal Mobile Experiences"
-description: "Designing a mobile marketing automation platform & marketing site."
+description: "Designing a better way for marketers and developers to deliver compelling experiences to their users."
 slug: artisan-platform-ui
 ---
 
