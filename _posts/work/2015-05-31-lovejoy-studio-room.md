@@ -4,7 +4,7 @@ title: "Nothing but Lovejoy"
 description: "Branding and web for a boutique art studio."
 slug: lovejoy
 ---
-For 10 years Mark was a teacher in the Philadelphia school district. After meeting his soon-to-be wife they relocated back to her hometown of Portland, OR to start their life together. Shortly after moving back they started to put in motion the idea of running a small art studio where Mark could teach drawing, painting, and printmaking. In addition to the art studio the couple had plans on creating a boutique Airbnb suite to entertain tourists traveling to Portland. The couple wanted the studio and guest suite to share the same name and decided to call their new venture Lovejoy.
+For 10 years Mark was a teacher in the Philadelphia school district. After meeting his soon-to-be wife they relocated back to her hometown of Portland, OR to start their life together. Shortly after moving back they started to put in motion the idea of running a small art studio where Mark could teach drawing, painting, and printmaking. In addition to the art studio, the couple had plans on creating a boutique Airbnb suite to entertain tourists traveling to Portland. The couple wanted the studio and guest suite to share the same name and decided to call their new venture Lovejoy.
 
 With a name in place Lovejoy was looking to establish a modern, flexible brand identity that could be used to identify their two properties — Lovejoy Studio and Lovejoy Room.
 
@@ -16,7 +16,7 @@ After some exploration I wasn’t really happy with the direction I was taking. 
 
 ![]({{ site.url }}/images/projects/lovejoy/lovejoy-logos.jpg)
 
-I started toying around with the idea of combining the “L” and the “J” in Lovejoy. After a few iterations a simple, but elegant solution revealed itself. Combining the “L” and the “J” in the box-like shape seen above provided a simple, modern mark with some room for secondary treatment.
+I started toying around with the idea of combining the “L” and the “J” in Lovejoy. After a few iterations a simple, but elegant solution revealed itself. Combining the “L” and the “J” in the box-like shape seen above provided a simple, modern mark with some room for secondary treatment to give Studio and Room a voice of their own.
 
 ![]({{ site.url }}/images/projects/lovejoy/studio-room.jpg)
 
