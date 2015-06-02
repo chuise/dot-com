@@ -2,6 +2,7 @@
 layout: project
 title: "Nothing but Lovejoy"
 description: "Branding and web for a boutique art studio."
+skills: ["Branding", "Identity", "Web Design", "Responsive Web"]
 slug: lovejoy
 ---
 For 10 years Mark was a teacher in the Philadelphia school district. After meeting his soon-to-be wife they relocated back to her hometown of Portland, OR to start their life together. Shortly after moving back they started to put in motion the idea of running a small art studio where Mark could teach drawing, painting, and printmaking. In addition to the art studio, the couple had plans on creating a boutique Airbnb suite to entertain tourists traveling to Portland. The couple wanted the studio and guest suite to share the same name and decided to call their new venture Lovejoy.

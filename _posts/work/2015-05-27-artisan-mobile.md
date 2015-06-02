@@ -2,6 +2,7 @@
 layout: project
 title: "Marketing Mobile Marketing Automation"
 description: "Designing a mobile marketing automation platform & marketing site."
+skills: ["Web Design", "Experience Design", "Front-end Development", "Illustration", "Wordpress", "Copywriting", "Graphic Design"]
 slug: artisan-mobile
 ---
 Artisan was created to help developers and mobile marketing professionals make the most out of their mobile apps. From instant analytics, to A/B testing, to mobile marketing automation Artisan provides the tools to engage mobile users.

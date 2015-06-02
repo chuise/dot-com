@@ -20,7 +20,12 @@
       </div>
     </div>
     </div>
-    <div class="wrap">
+    <div class="project-content wrap">
+      <ul class="services-provided">
+        {% for skill in page.skills %}
+          <li>{% if forloop.last %}{{ skill }}{% else %}{{ skill }}, {% endif %}</li>
+        {% endfor %}
+      </ul>
     	{{ content }}
     </div>
   </article>

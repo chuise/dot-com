@@ -2,6 +2,7 @@
 layout: project
 title: "A Few Logos"
 description: "Selected logos and brand assets."
+skills: ["Logo Design", "Identity", "Branding"]
 slug: selected-logos
 ---
 

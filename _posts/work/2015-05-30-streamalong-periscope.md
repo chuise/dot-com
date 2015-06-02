@@ -2,6 +2,7 @@
 layout: project
 title: "TV Guide for Live Streams"
 description: "Building a better way to discover live Periscope streams."
+skills: ["Branding", "Identity", "Web Design", "Responsive Web", "Icon Design", "Rails"]
 slug: streamalong
 ---
 I like Periscope a lot. I’m not going to go into the reasons why here. I’ve already covered that [in a separate post]({% post_url 2015-04-16-streamalong %}). One my biggest gripes with Periscope is the ability to discover interesting content to watch. It turns out that I wasn’t alone. [Chris Baglieri](http://www.chrisbaglieri.com) and I set out on a mission to create the TV Guide for streaming video. With that, [Streamalong.tv](http://streamalong.tv) was born.

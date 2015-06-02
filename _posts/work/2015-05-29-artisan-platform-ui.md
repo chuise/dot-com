@@ -2,6 +2,7 @@
 layout: project
 title: "Artisanal Mobile Experiences"
 description: "Designing a better way for marketers and developers to deliver compelling experiences to their users."
+skills: ["Product Management", "User Experience", "Interface Design", "Web Design", "Wireframing", "Front-end Development", "Icon Design"]
 slug: artisan-platform-ui
 ---
 Artisan started off as an A/B testing tool for mobile apps. Artisan was designed to allow mobile marketers and developers quickly test their apps and publish their resutls without ever needing to resubmit to app stores. For instance a marketer could test to see wether or not changing a button color would impact user purchases. If the test was a success, the marketer could instantly publish their changes to app users.
