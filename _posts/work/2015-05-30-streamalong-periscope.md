@@ -19,6 +19,9 @@ The core idea behind Streamalong is organizing Periscope streams into easy to id
 
 We wanted to ensure that people browsing Streamalong on desktop and mobile devices had a similar experience. The site is fully responsive and utilizes some server-side components to help reduce the amount of information delivered to mobile devices to make sure that the pages load fast.
 
+> While there are other discovery sites out there for Periscope and Meerkat like Lookats and Meerkat Streams, Streamalong is the most coherent and easy to navigate.
+> -- [The Next Web](http://thenextweb.com/apps/2015/04/17/streamalong-helps-you-discover-the-best-and-worst-of-periscope/)
+
 We built Streamalong using Rails 4. Chris handled the heavy-lifting on the backend of the site while I handled the branding, illustration, HTML and Sass – with a little help from [Bourbon](http://bourbon.io) and [Neat](http://neat.bourbon.io)... and maybe a little bit of actual bourbon.
 
 Streamalong was a fun project that was delivered very quickly. Streamalong was conceived, designed, developed, and launched in less than two weeks. It was featured on [ProductHunt](http://producthunt.com) and ended the day as one of the top Hunts. In addtion to that, Streamalong was featured in [The Next Web](http://thenextweb.com/apps/2015/04/17/streamalong-helps-you-discover-the-best-and-worst-of-periscope/) and [Technical.ly Philly](http://technical.ly/philly/2015/04/17/streamalong-periscope-discovery-guide/).
