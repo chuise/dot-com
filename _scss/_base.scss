@@ -31,6 +31,10 @@ h3 {
 // Basic Elements
 p {
   line-height: 1.5em;
+
+  @include media($medium-screen-up) {
+    font-size: 1.5rem;
+  }
 }
 
 a {
@@ -74,26 +78,6 @@ main {
     display: block;
     margin: 0;
   }
-
-  &.selected-logos {
-    border-bottom: solid 1px #dadada;
-  }
-
-  &.artisan-mobile {
-    background-color: #f04123;
-  }
-
-  &.lovejoy {
-    background-color: #e23c37;
-  }
-
-  &.streamalong {
-    background-color: #ff0074;
-  }
-
-  &.artisan-platform-ui {
-    background-color: #3572d2;    
-  }
 }
 
 .posts {
@@ -122,12 +106,46 @@ main {
   }
 
   p {
-    @include media($medium-screen-up) {
-      font-size: modular-scale(1);
-    }
-    
     margin-bottom: 2rem;
+
+    &:first-child:first-letter {
+      display: inline-block;
+      float: left;
+      font-size: 3.75rem;
+      line-height: 3.25rem;
+      padding-right: .5rem;
+
+      @include media($medium-screen-up) {
+        font-size: modular-scale(4);
+        line-height: 4.5rem;
+      }
+    }
   }
+}
+
+.selected-logos {
+  .hero { border-bottom: solid 1px #dadada; }
+  p:first-child:first-letter { color: #3572d2; }
+}
+
+.artisan-mobile {
+  .hero { background-color: #f04123; }
+  p:first-child:first-letter { color: #f04123; }
+}
+
+.lovejoy {
+  .hero { background-color: #e23c37; }
+  p:first-child:first-letter { color: #e23c37; }
+}
+
+.streamalong {
+  .hero { background-color: #ff0074; }
+  p:first-child:first-letter { color: #ff0074; }
+}
+
+.artisan-platform-ui {
+  .hero { background-color: #3572d2; }
+  p:first-child:first-letter { color: #3572d2; }
 }
 
 .selected-work {
